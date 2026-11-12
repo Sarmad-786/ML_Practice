@@ -1,0 +1,15 @@
+# Python environments
+.venv/
+.venv312/
+venv/
+
+# Large datasets
+fruits.csv
+fruits227.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
